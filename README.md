@@ -1,0 +1,1 @@
+Most of the files in here are part of the projects that I needed to code for a computational physics class. The major focus of the class is on statistical mechanics physics concepts and therefore most of the programs here are mostly focused on that topic.
